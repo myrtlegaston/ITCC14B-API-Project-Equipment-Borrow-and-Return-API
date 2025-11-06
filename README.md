@@ -6,3 +6,5 @@ TEAM MEMBERS
 -- Gaston, Myrtle G.
 -- Loking, Gail Leanne N.
 -- Ricarte, Patrice Jessie P.
+
+Title: Equipment Borrow and Return API
